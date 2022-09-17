@@ -1,9 +1,11 @@
-# class14-ops301
-
 #!/usr/bin/python
+
+#Load Python and import the os and DATETIME Libraries
+
 import os
 import datetime
 
+#Define a variable named Signature and set it to VIRUS 
 SIGNATURE = "VIRUS"
 
 def locate(path):
